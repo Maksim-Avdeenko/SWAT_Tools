@@ -1,6 +1,7 @@
 imgui.NewLine()
 imgui.CenterTextColoredRGB("{ffffff}Версия {191970}0.2 [B]")
 imgui.CreatePaddingX(20); imgui.TextColoredRGB("{191970}• {ffffff} Добавлены основные команды для работы скрипта, меню скрипта.")
+imgui.NewLine()
 imgui.Separator()
 imgui.NewLine()
 imgui.CenterTextColoredRGB("{ffffff}Версия {191970}0.1 [B]")
