@@ -7,7 +7,7 @@ imgui.TextColoredRGB("{ff0000}Статья 1.1 {585858}За причинения
 imgui.CreatePaddingX(20);
 imgui.TextColoredRGB("{b8312f}(Без вооруженное нападение)")
 imgui.CreatePaddingX(20);
-imgui.TextColoredRGB("{ff0000}Статья 1.2 {585858}За причинения вреда здоровью сотруднику правоохранительных органов, подозреваемому присваивается\n{585858}5 уровень розыска.")
+imgui.TextColoredRGB("{ff0000}Статья 1.2 {585858}За причинения вреда здоровью сотруднику правоохранительных органов,\nподозреваемому присваивается 5 уровень розыска.")
 imgui.CreatePaddingX(20);
 imgui.TextColoredRGB("{b8312f}(Без вооруженное нападение)")
 imgui.CreatePaddingX(20);
