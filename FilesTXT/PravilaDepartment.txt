@@ -1,4 +1,5 @@
 imgui.NewLine()
+imgui.TextColoredRGB("{ff0000}Последнее редактирование: {585858}01.03.2021 ")
 imgui.CreatePaddingX(20);
 imgui.TextColoredRGB("{191970}1.1. {585858}Запрещено свободное общение в OOC чате с {191970}10:00 {585858}до {191970}22:00{585858}.")
 imgui.CreatePaddingX(20);
