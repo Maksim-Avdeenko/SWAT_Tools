@@ -1,4 +1,5 @@
 imgui.NewLine()
+imgui.CreatePaddingX(20);
 imgui.TextColoredRGB("{191970}1.1. {585858}Запрещено свободное общение в OOC чате с {191970}10:00 {585858}до {191970}22:00{585858}.")
 imgui.CreatePaddingX(20);
 imgui.TextColoredRGB("{585858}Наказание для сотрудника: {FF0000}Блокирование рации на 20 минут (/dmute)")
@@ -29,9 +30,7 @@ imgui.TextColoredRGB("{585858}Наказание для сотрудника: {F
 imgui.CreatePaddingX(20);
 imgui.TextColoredRGB("{191970}1.7. {585858}Запрещено снимать мут, если он был выдан по правилам, даже если человек извинился или по амнистии.")
 imgui.CreatePaddingX(20);
-imgui.TextColoredRGB("{585858}Наказание: {FF0000}Если снял сотрудник - На усмотрение лидера / Увольнение")
-imgui.CreatePaddingX(20);
-imgui.TextColoredRGB("{FF0000}| Eсли снял лидер - REPROOF / LEADVIG")
+imgui.TextColoredRGB("{585858}Наказание: {FF0000}Если снял сотрудник - На усмотрение лидера / Увольнение | Eсли снял лидер - REPROOF / LEADVIG")
 imgui.CreatePaddingX(20);
 imgui.TextColoredRGB("{191970}1.8. {585858}Запрещён намеренный откат.")
 imgui.CreatePaddingX(20);
