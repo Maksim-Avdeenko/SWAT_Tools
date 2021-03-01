@@ -161,7 +161,7 @@ imgui.TextColoredRGB("{585858}(На кабриолетах выполнять р
 imgui.CreatePaddingX(20);
 imgui.TextColoredRGB("{191970}7.7. {585858}Боец отряда специального назначения, состоящий в руководящем")
 imgui.CreatePaddingX(20);
-imgui.TextColoredRGB("составе подразделения, имеет право на полное руководство.")
+imgui.TextColoredRGB("{585858}составе подразделения, имеет право на полное руководство.")
 imgui.CreatePaddingX(20);
 imgui.TextColoredRGB("{585858}младшим составом (проведение полевых и городских учений, разного рода розыскные мероприятие")
 imgui.CreatePaddingX(20);
