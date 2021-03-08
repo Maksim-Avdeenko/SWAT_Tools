@@ -1,3 +1,11 @@
+  
+imgui.NewLine()
+imgui.CenterTextColoredRGB("{ffffff}Версия {191970}0.7 [S]")
+imgui.CreatePaddingX(20); imgui.TextColoredRGB("{191970}• {ffffff} Мелкие изменения, выход на стабильную версию.")
+imgui.CreatePaddingX(20); imgui.TextColoredRGB("{191970}• {ffffff} Добавлен горизонтальный скролл меню.")
+imgui.CreatePaddingX(20); imgui.TextColoredRGB("{191970}• {ffffff} Обновление обязательное!.")
+imgui.NewLine()
+imgui.Separator()
 imgui.NewLine()
 imgui.CenterTextColoredRGB("{ffffff}Версия {191970}0.6 [S]")
 imgui.CreatePaddingX(20); imgui.TextColoredRGB("{191970}• {ffffff} Пофикшен баг с отображением текущего ранга")
