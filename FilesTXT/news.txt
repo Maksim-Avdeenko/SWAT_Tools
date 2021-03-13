@@ -52,7 +52,7 @@ imgui.CreatePaddingX(20); imgui.TextColoredRGB("{191970}• {ffffff} /ship со�
 imgui.CreatePaddingX(20); imgui.TextColoredRGB("{191970}• {ffffff} /pursuit сокращен на /prs")
 imgui.CreatePaddingX(20); imgui.TextColoredRGB("{191970}• {ffffff} /agetcar сокращен на /agc")
 imgui.CreatePaddingX(20); imgui.TextColoredRGB("{191970}• {ffffff} Создана команда для вещания [ /govswat ]")
-imgui.CreatePaddingX(20); imgui.TextColoredRGB("{191970}• {ffffff} Создана команда для объявления о трансферах в SWAT [ /transfer ]")
+imgui.CreatePaddingX(20); imgui.TextColoredRGB("{191970}• {ffffff} Создана команда для объявления о трансферах в SWAT [ /transferdep ]")
 imgui.CreatePaddingX(20); imgui.TextColoredRGB("{191970}• {ffffff} Создан отдел Документации и в него добавлено:")
 imgui.CreatePaddingX(40); imgui.TextColoredRGB("{ffffff}1) Уголовный Кодекс")
 imgui.CreatePaddingX(40); imgui.TextColoredRGB("{ffffff}2) Кодекс об Административных Правонарушениях")
