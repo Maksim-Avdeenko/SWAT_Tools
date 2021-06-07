@@ -4,6 +4,7 @@ imgui.CreatePaddingX(20); imgui.TextColoredRGB("{191970}• {ffffff} Испра�
 imgui.CreatePaddingX(20); imgui.TextColoredRGB("{191970}• {ffffff} Пофикшен баг с загрузкой скрипта.")
 imgui.CreatePaddingX(20); imgui.TextColoredRGB("{191970}• {ffffff} Обновление обязательное!")
 imgui.NewLine()
+imgui.Separator()
 imgui.NewLine()
 imgui.CenterTextColoredRGB("{ffffff}Версия {191970}0.9 [S]")
 imgui.CreatePaddingX(20); imgui.TextColoredRGB("{191970}• {ffffff} Исправлены грамматические ошибки.")
